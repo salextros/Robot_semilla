@@ -1,1 +1,1 @@
-{"name":"Robot Semilla","short_name":"Semilla","lang":"es","start_url":"./","display":"standalone","background_color":"#faf9f3","theme_color":"#245a43","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
+{"name":"Robot Semilla · La huerta de las ideas","short_name":"Robot Semilla","lang":"es","start_url":"./","scope":"./","display":"standalone","background_color":"#fffdf6","theme_color":"#247663","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
